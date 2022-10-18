@@ -30,7 +30,7 @@ const CreativesDrawer = ({ onClose, colors, setCreatives }) => {
   };
 
   return (
-    <div className="fixed right-0 h-screen w-96 p-5 top-0 border-white border-2">
+    <div className="fixed bg-slate-700 right-0 h-screen w-96 p-5 top-0 border-white border-2">
       <div className="flex justify-between items-center mb-5">
         <h2 className="font-bold text-lg">Creative Creation</h2>
         <Cross
