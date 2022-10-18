@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Cross from "../assets/icons/cross";
+import Cross from "../assets/icons/Cross";
 
 const CreativesDrawer = ({ onClose, colors, setCreatives }) => {
   const [formDetails, setFormDetails] = useState({
